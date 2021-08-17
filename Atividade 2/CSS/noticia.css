@@ -1,0 +1,47 @@
+.principal{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 15px;
+    color: #250;
+}
+
+.tb1,td{
+    border: solid;
+    border-width: 1px;
+    border-color: black;
+    width: 766px;
+    height: 36px;
+    background-color: #000033;
+}
+
+.titulo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 15px;
+    background-color: #FFF;
+}
+
+.origem{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: #FFF;
+    color: #280;
+}
+
+.resumo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    background-color: #FFF;
+}
+
+.rodape{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 11px;
+    text-align: center;
+    background-color: #CFB;
+}
+
